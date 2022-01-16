@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "meganrogge.template-string-converter",
+    "fabiospampinato.vscode-terminals"
+  ]
+  
+}

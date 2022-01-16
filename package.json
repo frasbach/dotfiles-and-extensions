@@ -1,0 +1,28 @@
+{
+  "name": "dotfiles-and-extensions",
+  "version": "1.0.0",
+  "description": "A repository to accumulate and reuse config files and extensions for various development environments.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frasbach/dotfiles-and-extensions.git"
+  },
+  "keywords": [
+    "dotfiles",
+    "extensions"
+  ],
+  "author": "github.com/frasbach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frasbach/dotfiles-and-extensions/issues"
+  },
+  "homepage": "https://github.com/frasbach/dotfiles-and-extensions#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
